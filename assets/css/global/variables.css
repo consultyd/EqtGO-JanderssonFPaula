@@ -1,0 +1,20 @@
+/* Essas são as variáveis para usar no site e ficar mais escalável a edição das coisas */
+/* Cores da equatorial Goias
+#2f2e79 - Roxo 
+#6d6ea8 - Roxo
+#5f6062 - Cinza
+#003a63 - Azul
+
+*/
+:root {
+
+  /* Variáveis de Cores */
+  --cor-branco: #FFFFFF;
+  --cor-preto: #000000;
+  --cor-principal: #003a63;
+  --cor-cinza-claro: #e3e4ed;
+
+  /* Variáveis de Fontes */
+  --regular: 'mark-pro-regular';
+  --bold: 'mark-pro-bold';
+}
